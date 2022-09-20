@@ -2,8 +2,8 @@
 
 Here is a little about me...
 
-- 🔭 I’m currently 16 years old
+- 🔭 I’m currently 18 years old
 - 🌱 I’m currently learning java
-- 👯 Going to be a software engineer
 
-(( If you have any questions ask! ))
+You may contact me through my email:
+#madsencoop@gmail.com
