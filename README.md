@@ -3,7 +3,6 @@
 Here is a little about me...
 
 - 🔭 I’m currently 18 years old
-- 🌱 I’m currently learning java
+- 🌱 Current student at Texas A&M University - Corpus Christi
 
-You may contact me through my email:
-#madsencoop@gmail.com
+(( Contact Email: madsencoop@gmail.com ))
